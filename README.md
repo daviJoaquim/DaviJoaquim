@@ -1,16 +1,19 @@
-## Hi there 👋
+# Este sou eu 
 
-<!--
-**daviJoaquim/DaviJoaquim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o **Davi**,<ins>aluno da formação profissional</ins>, **namorado da laisa**, gosto de jogar bola e vídeo game
+ 
+# Formação acadêmica
 
-Here are some ideas to get you started:
+Estou me formando em Tecnologia em Informática para Negócios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Posso escrever um pequeno trecho de código como `git status` ou então trechos maiores como o abaixo:
+
+```javascript
+const constante = 0; //constante precisa ser inicializada
+```
+
+```python
+def ola_Mundo(){
+ print('Olá, Mundo!')
+} 
+ ```
