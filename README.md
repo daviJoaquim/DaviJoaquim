@@ -1,6 +1,6 @@
 # Este sou eu 
 
-Sou o **Davi**,<ins>aluno da formação profissional</ins>, **namorado da laisa**, gosto de jogar bola e vídeo game
+Sou o **Davi**, <ins>aluno da formação profissional</ins>, de Desenvolvimento de Sistemas
  
 # Formação acadêmica
 
